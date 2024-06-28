@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "About";
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@TempData["dataa3"]
+@ViewBag.data1
+@ViewBag.data2
+@ViewBag.data3
+
+@{
+    foreach(var item in ViewBag.data4)
+    {
+        <h1>@item</h1>
+    }
+
+    foreach (var item in ViewBag.data5)
+    {
+        <h1>@item</h1>
+    }
+}
+
+<h1>About Page</h1>
+<h1>THis is my About page</h1>
+

@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@TempData["dataa3"]
+<h1>Index Page</h1>
+<h1>THis is my Home page</h1>
+@ViewData["data1"]
+@ViewData["data2"]
+@ViewData["data3"]
+@ViewData["data4"]
+
+@{
+    foreach(var i in (string[])ViewData["data5"])
+    {
+        <h1>@i</h1>
+    }
+    foreach (var i in (List<string>)ViewData["data6"])
+    {
+        <h1>@i</h1>
+    }
+
+}
+
+@* <h1>Time and Date is @DateTime.Now</h1>
+<h1>Time is @DateTime.Now.TimeOfDay</h1>
+<h1>Year is @DateTime.Now.Year</h1>
+<h1>Year is @DateTime.Now</h1>
+
+@{
+    var name = "Abid Ali";
+    var age = 50;
+}
+
+<h1>@name</h1> *@

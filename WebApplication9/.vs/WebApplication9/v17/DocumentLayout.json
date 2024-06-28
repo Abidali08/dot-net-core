@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abid\\source\\repos\\WebApplication9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36EAA13E-E3C1-4946-833F-952C347C83F3}|WebApplication9\\WebApplication9.csproj|c:\\users\\abid\\source\\repos\\webapplication9\\webapplication9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36EAA13E-E3C1-4946-833F-952C347C83F3}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EAA13E-E3C1-4946-833F-952C347C83F3}|WebApplication9\\WebApplication9.csproj|c:\\users\\abid\\source\\repos\\webapplication9\\webapplication9\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36EAA13E-E3C1-4946-833F-952C347C83F3}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36EAA13E-E3C1-4946-833F-952C347C83F3}|WebApplication9\\WebApplication9.csproj|c:\\users\\abid\\source\\repos\\webapplication9\\webapplication9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36EAA13E-E3C1-4946-833F-952C347C83F3}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abid\\source\\repos\\WebApplication9\\WebApplication9\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication9\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abid\\source\\repos\\WebApplication9\\WebApplication9\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "WebApplication9\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwCIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T12:08:48.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\abid\\source\\repos\\WebApplication9\\WebApplication9\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\abid\\source\\repos\\WebApplication9\\WebApplication9\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication9\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:08:45.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\abid\\source\\repos\\WebApplication9\\WebApplication9\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\abid\\source\\repos\\WebApplication9\\WebApplication9\\Models\\Student.cs*",
+              "RelativeToolTip": "WebApplication9\\Models\\Student.cs*",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:08:19.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

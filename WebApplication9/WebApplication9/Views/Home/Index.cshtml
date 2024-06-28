@@ -1,0 +1,35 @@
+﻿
+@model WebApplication9.Models.Student;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+
+            <form asp-action="Index" asp-controller="Home" method="post">
+                <input asp-for="Name" class="form-control" placeholder="Enter your Name" />
+                <span asp-validation-for="Name" style="color:red;"></span>
+                <br/>
+                <input asp-for="Email" class="form-control" placeholder="Enter your Email" />
+                <span asp-validation-for="Email" style="color:red;"></span>
+                <br />
+                <input asp-for="Age" class="form-control" placeholder="Enter your Email" />
+                <span asp-validation-for="Age" style="color:red;"></span>
+                <br />
+                <input asp-for="Password" class="form-control" placeholder="Enter your Email" />
+                <span asp-validation-for="Password" style="color:red;"></span>
+                <br />
+
+                <input type="submit" value="Submit" class="btn btn-outline-primary"/>
+            </form>
+        </div>
+    </div>
+</div>
