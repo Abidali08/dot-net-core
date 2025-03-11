@@ -128,5 +128,5 @@ https://localhost:5001/swagger
 
 ---
 
-This completes the setup of a **.NET API** with **PostgreSQL** and **Swagger**! 🎉
+This completes the setup of a **.NET API** with **PostgreSQL** and **Swagger**!
 
